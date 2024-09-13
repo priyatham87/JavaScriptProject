@@ -1,8 +1,8 @@
  
        /* General Styles */
        .hangmanGameBg {
-        width: 100%;
-        height: 100vh; /* Make the height responsive */
+        width: 97%;
+        height: 92vh; /* Make the height responsive */
         background-image: url(./HangmanBgImg.png);
         background-size: 150px 150px;
         display: flex;
